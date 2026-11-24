@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>YouTube Video Downloader for </strong>MAC</h1>
+<h1 align="center"><strong>YouTube Video Downloader </strong>MAC</h1>
 <p align="center">
   <strong>Free YouTube video downloader for macOS</strong><br>
   Beautiful native app. No ads. No tracking. Open source.
