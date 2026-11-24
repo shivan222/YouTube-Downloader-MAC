@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>YouTube Video Downloader </strong>MAC</h1>
+<h1 align="center"><strong>YouTube Downloader </strong>MAC</h1>
 <p align="center">
   <strong>Free YouTube video downloader for macOS</strong><br>
   Beautiful native app. No ads. No tracking. Open source.
@@ -16,7 +16,7 @@
 ## ⬇️ Download — No Setup Required
 
 <p align="center">
-  <a href="https://github.com/shivan222/YouTube-downloader/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
+  <a href="https://github.com/shivan222/YouTube-Downloader-MAC/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
   macOS 14+ · Zero Adware
 </p>
 Just download, open the DMG, drag to Applications. Done.
