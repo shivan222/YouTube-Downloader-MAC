@@ -69,17 +69,6 @@ YouTube, Vimeo, Twitter/X, Reddit, Instagram, TikTok, Dailymotion, Twitch, Sound
 - Internet connection
 - ~100 MB disk space (app + download engine)
 
-## Want 4K/8K?
-
-**[4Kly Pro →](https://4kly.com)** — one-time $19.99, lifetime license.
-
-- 4K / 8K / 60fps HDR downloads
-- Entire playlist downloads
-- Audio extraction (MP3/M4A)
-- No daily limits
-
-Your purchase supports independent development.
-
 ## Privacy
 
 **4K**ly runs entirely on your Mac. No telemetry, no analytics, no data collection. All downloads and history are stored locally.
